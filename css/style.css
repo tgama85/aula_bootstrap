@@ -6,6 +6,10 @@ body {
     background-color: #04B4AE;
 }
 
+.imagem {
+    max-width: 80px;
+}
+
 .quem-somos {
     background-color: #A9D0F5;
     color: grey;
